@@ -167,6 +167,9 @@
         outdoors faster than you can pack a sandwich.\n\nWhether you\'re an experienced hiker or
         just looking to get outside for the afternoon, there\'s a segment that suits you.
     </string>
+
+    <string name="sumador2">Sumador2</string>
+    <string name="sumador1">Sumador1</string>
     <string name="email_10_time">3 hours ago</string>
 
     <string name="email_11_subject">Free money</string>
